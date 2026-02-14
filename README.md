@@ -6,3 +6,18 @@ Day 1:
 - Created TryHackMe account
 - Started Offensive Security Intro
 - Learning CIA Triad basics
+
+## Day 2 Progress
+
+### Offensive Security Intro
+- Learned about attacking mindset
+- Used dirb to find hidden pages
+- Discovered exposed admin panel
+- Understood broken access control
+
+## Day 3 progress
+
+### Defensive Security
+- Learned difference between Red Team and Blue Team
+- Understood SOC (Security Operations Center)
+- Basic idea of monitoring and detection
