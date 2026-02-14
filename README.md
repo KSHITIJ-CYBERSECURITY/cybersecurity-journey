@@ -2,12 +2,12 @@
 My ethical hacking and cybersecurity learning notes
 # Cybersecurity Journey 🚀
 
-Day 1:
+## Day 1 Progress:
 - Created TryHackMe account
 - Started Offensive Security Intro
 - Learning CIA Triad basics
 
-## Day 2 Progress
+## Day 2 Progress:
 
 ### Offensive Security Intro
 - Learned about attacking mindset
@@ -15,7 +15,7 @@ Day 1:
 - Discovered exposed admin panel
 - Understood broken access control
 
-## Day 3 progress
+## Day 3 Progress:
 
 ### Defensive Security
 - Learned difference between Red Team and Blue Team
